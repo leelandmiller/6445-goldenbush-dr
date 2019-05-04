@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `6445 Goldenbush Dr.`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    description: `6445 Goldenbush Dr. Carlsbad, CA is a stunning 2 story home in Carlsbad Shorepointe. 3,188 sq ft, 4 bed, 4 bath w/ entry level office and 3 car garage. This home is an entertainer’s dream with a large kitchen, multiple living areas and private tranquil backyard with waterfall feature. Low HOA at $99/month, RV storage at $40/month, coveted Carlsbad School District and just a few miles from the beach. Close to all shopping and restaurants.`,
     author: `@leelandmiller`,
   },
   plugins: [
@@ -39,7 +39,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/aji-favicon.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

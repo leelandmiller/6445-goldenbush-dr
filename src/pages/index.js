@@ -10,12 +10,21 @@ import Layout from "../components/layout"
 
 import SEO from "../components/seo"
 
-
+const keywords = [
+  'carlsbad home for sale',
+  'homes for sale in carlsbad',
+  'aviara homes for sale',
+  'homes for sale in aviara carlsbad',
+  'carlsbad homes',
+  'houses for sale carlsbad ca',
+  'liz bishop',
+  'houses for sale near me'
+]
 
 const IndexPage = () => (
   <>
     <Layout>
-      <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
+      <SEO title="6445 Goldenbush Drive Carlsbad, CA 92011" keywords={keywords} />
       <Hero/>
       <About/>
       <Features/>
