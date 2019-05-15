@@ -27,7 +27,8 @@
   white-space: nowrap;
 }
 .hero-text .status {
-  background-color: rgba(60,173,151,0.7);
+  /* background-color: rgba(60,173,151,0.7); */
+  background-color: rgba(223, 155, 55, 0.7);
   position: absolute;
   top: 0px;
   width: 100%;
@@ -44,8 +45,7 @@
   font-family: 'Saira Extra Condensed', sans-serif;
 }
 .hero-text .price {
-  font-family: 'Tangerine', cursive;
-  color: #5fe3e8;
+  font-family: 'Tangerine', cursive; 
   font-size: 2.0rem;
   position: absolute;
   bottom: 96px;
