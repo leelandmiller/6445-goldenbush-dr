@@ -31,7 +31,7 @@ const Hero = () => (
         />
         <div className="hero-text">
           <h2 className="status">
-            SALE PENDING
+            SOLD
           </h2>
           <h1 className="address">
             6445 Goldenbush Dr<br/>
